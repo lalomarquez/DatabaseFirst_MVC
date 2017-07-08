@@ -12,6 +12,7 @@ namespace EF_DatabaseFirst_MVC.Controllers
         public ActionResult Index()
         {
             return View();
+
         }
     }
 }
